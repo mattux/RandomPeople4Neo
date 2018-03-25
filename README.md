@@ -1,6 +1,6 @@
 # RandomPeople4Neo
 
-This is a script that I made for the demo part of my [talk on Graph Databases](http://linuxday.gulch.it/slides/2015/traccia-tecnica/dbms.pdf) at ["Linux Day" 2015.](http://linuxday.gulch.it/node/68) (slides are in italian).
+This is a script for the demo part of my [talk on Graph Databases](http://linuxday.gulch.it/slides/2015/traccia-tecnica/dbms.pdf) I made at ["Linux Day" 2015.](http://linuxday.gulch.it/node/68) (slides are in italian).
 
 This little script creates, in a pseudo-random way, people and relationships among them. It outputs two CSV files ready to be imported on Neo4j, in order to have a didactic database with which to play.
 
