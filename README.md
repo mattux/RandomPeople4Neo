@@ -6,7 +6,7 @@ This little script creates, in a pseudo-random way, people and relationships amo
 
 Tested on the current Neo4j version (3.3.4)
 
-**The source code includes two variables that defines how much people and how much relationships generate.**
+**The source code includes two variables that defines how much people and how much relationships will be generated.**
 
 
 ## How to
