@@ -27,4 +27,4 @@ Create the db (Neo4j must not be in running).
 
 ---
 
-If all gone well, you can now play with the db. The file `query.md` contains a few example queries. Have fun! 😃
+If all gone well, you can now play with the db. The file `query.txt` contains a few example queries. Have fun! 😃
